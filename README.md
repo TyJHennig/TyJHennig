@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋 I'm Tyler!
 
 <!--
 **TyJHennig/TyJHennig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a web developer and a IT engineer. I am always working on passion projects and hope to hone my skills each day. 
+
+Le Wagon alumni 🚌
+
+📫 You can find me here:
+www.linkedin.com/in/tyler-hennig/
